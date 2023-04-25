@@ -1,1 +1,1 @@
-# Create React App with Tailwind CSS
+# 숫자야구게임 만들기
